@@ -1,0 +1,24 @@
+{
+  "name": "Dawn of Seoul",
+  "description": "It is a theme made to feel blue, the representative dawn color of Seoul.",
+  "author": "hahwul",
+  "primary": {
+    "dark": "#081721",
+    "light": "#182730",
+    "subtle": "#122231"
+  },
+  "button": {
+    "primary": {
+      "bg": "#30465a",
+      "text": ""
+    },
+    "secondary": {
+      "bg": "#000000",
+      "text": "#000000"
+    },
+    "tertiary": {
+      "bg": "#31516d",
+      "text": ""
+    }
+  }
+}
